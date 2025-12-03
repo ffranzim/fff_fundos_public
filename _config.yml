@@ -1,0 +1,7 @@
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
