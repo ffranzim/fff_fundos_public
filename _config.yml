@@ -5,3 +5,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+baseurl: /fff_fundos_public
